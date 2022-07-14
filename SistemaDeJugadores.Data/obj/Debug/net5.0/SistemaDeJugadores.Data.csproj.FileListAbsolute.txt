@@ -1,0 +1,15 @@
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\bin\Debug\net5.0\SistemaDeJugadores.Data.deps.json
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\bin\Debug\net5.0\SistemaDeJugadores.Data.runtimeconfig.json
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\bin\Debug\net5.0\SistemaDeJugadores.Data.runtimeconfig.dev.json
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\bin\Debug\net5.0\SistemaDeJugadores.Data.dll
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\bin\Debug\net5.0\SistemaDeJugadores.Data.pdb
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\obj\Debug\net5.0\SistemaDeJugadores.Data.csproj.AssemblyReference.cache
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\obj\Debug\net5.0\SistemaDeJugadores.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\obj\Debug\net5.0\SistemaDeJugadores.Data.AssemblyInfoInputs.cache
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\obj\Debug\net5.0\SistemaDeJugadores.Data.AssemblyInfo.cs
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\obj\Debug\net5.0\SistemaDeJugadores.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\obj\Debug\net5.0\SistemaDeJugadores.Data.dll
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\obj\Debug\net5.0\refint\SistemaDeJugadores.Data.dll
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\obj\Debug\net5.0\SistemaDeJugadores.Data.pdb
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\obj\Debug\net5.0\SistemaDeJugadores.Data.genruntimeconfig.cache
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Data\obj\Debug\net5.0\ref\SistemaDeJugadores.Data.dll

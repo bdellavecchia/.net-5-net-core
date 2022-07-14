@@ -1,0 +1,15 @@
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\bin\Debug\net5.0\SistemaDeJugadores.Servicios.deps.json
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\bin\Debug\net5.0\SistemaDeJugadores.Servicios.dll
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\bin\Debug\net5.0\SistemaDeJugadores.Servicios.pdb
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\bin\Debug\net5.0\SistemaDeJugadores.Data.dll
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\bin\Debug\net5.0\SistemaDeJugadores.Data.pdb
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\obj\Debug\net5.0\SistemaDeJugadores.Servicios.csproj.AssemblyReference.cache
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\obj\Debug\net5.0\SistemaDeJugadores.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\obj\Debug\net5.0\SistemaDeJugadores.Servicios.AssemblyInfoInputs.cache
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\obj\Debug\net5.0\SistemaDeJugadores.Servicios.AssemblyInfo.cs
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\obj\Debug\net5.0\SistemaDeJugadores.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\obj\Debug\net5.0\SistemaDeJugadores.Servicios.csproj.CopyComplete
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\obj\Debug\net5.0\SistemaDeJugadores.Servicios.dll
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\obj\Debug\net5.0\refint\SistemaDeJugadores.Servicios.dll
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\obj\Debug\net5.0\SistemaDeJugadores.Servicios.pdb
+C:\Users\Bianca\source\repos\DellaVecchiaBianca-Parcial2\SistemaDeJugadores.Servicios\obj\Debug\net5.0\ref\SistemaDeJugadores.Servicios.dll

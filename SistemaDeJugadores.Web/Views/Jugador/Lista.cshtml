@@ -1,0 +1,32 @@
+﻿@using SistemaDeJugadores.Data.EF
+@model List<Jugador>
+
+<form action="/Jugador/Lista" method="post">
+
+
+    <div>
+    Equipo:
+        <select name="IdEquipo">
+            <option value="">Equipos</option>
+            @foreach (var equipo in (List<Equipo>) ViewBag.Equipo)
+            {
+                <option value="@equipo.Id">@equipo.Nombre</option>
+            }
+        </select>
+    </div>
+    <input type="submit" name="Filtrar" value="Filtrar" />
+
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Equipo</th>
+        </tr>
+        @foreach (var jugador in Model)
+        {
+            <tr>
+                <td>@jugador.Nombre</td>
+                <td>@jugador.IdEquipoNavigation.Nombre</td>
+            </tr>
+        }
+    </table>
+</form>

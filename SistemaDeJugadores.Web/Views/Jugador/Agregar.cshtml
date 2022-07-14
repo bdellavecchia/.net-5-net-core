@@ -1,0 +1,26 @@
+﻿@using SistemaDeJugadores.Data.EF
+@model SistemaDeJugadores.Data.EF.Jugador
+
+
+<form action="/Jugador/Agregar" method="post">
+    <div>
+        Nombre:
+        <input type="text" name="Nombre" />
+    </div>
+    
+    <div>
+    Equipo:
+        <select name="IdEquipo">
+            <option value="">Equipos</option>
+            @foreach (var equipo in (List<Equipo>) ViewBag.Equipo)
+            {
+                <option value="@equipo.Id">@equipo.Nombre</option>
+            }
+        </select>
+    </div>
+
+    <div>
+        <input type="submit" value="Guardar" />
+    </div>
+</form>
+
